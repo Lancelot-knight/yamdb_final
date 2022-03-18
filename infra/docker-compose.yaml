@@ -10,7 +10,6 @@ services:
       - ./.env
 
   web:
-    build:
     image: lancelot2022/api_yamdb:latest
     restart: always
     volumes:
