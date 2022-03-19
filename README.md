@@ -1,6 +1,6 @@
 Status of workflow
 
-![example workflow](https://github.com/Ekd0111/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+![example workflow](https://github.com/Lancelot-knight/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 # Проект YAMDB_FINAL
 
