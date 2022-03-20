@@ -4,7 +4,7 @@ Status of workflow
 
 # Проект YAMDB_FINAL
 
-# Автор проекта: Алексей Неклоюдов (https://github.com/Lancelot-knight)
+## Автор проекта: Алексей Неклоюдов (https://github.com/Lancelot-knight)
 
 ## Описание
 Проект для закрепления практических навыков DevOps: CI и CD.
